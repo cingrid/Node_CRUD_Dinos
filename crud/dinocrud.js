@@ -1,1 +1,0 @@
-// rotas dos dinos
